@@ -1,4 +1,6 @@
 // taken from https://web.dev/cls/#measure-cls-in-javascript
+// copy the below into chrome browser console and press enter
+// as you navigate the page layout shift issues will be logged
 
 let clsValue = 0;
 let clsEntries = [];
